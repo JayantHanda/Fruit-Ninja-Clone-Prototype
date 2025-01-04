@@ -13,6 +13,6 @@ The “script.js” file contains mainly all of the content in this stage. So I 
 1 to 4 circles are generated randomly anywhere below the screen every 5 seconds, these circles have 4 random colors and fixed size.  All of these circles have upward velocities and horizontal velocities towards the center of the screen with randomized magnitudes. These circles perform projectile motion under gravity. If the cursor is moved onto the circles their radius is changed to 0, hence making them vanish.
 
 These are the things that I still have to work on and will complete before the final evaluation:
-How the game ends + concept of bombs, slicing animation, UI and finals touches
+How the game ends + concept of bombs, slicing animation, UI and final touches.
 
 -Jayant Handa 24JE0275
